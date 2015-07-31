@@ -1,0 +1,11 @@
+Cmp-Mod V01 Genere par PcbNew le 2015 July 31, Friday 11:03:42
+
+BeginCmp
+TimeStamp = 55BB39B8
+Path = 
+Reference = REF**;
+ValeurCmp = PGA84;
+IdModule  = Sockets:PGA84;
+EndCmp
+
+EndListe
