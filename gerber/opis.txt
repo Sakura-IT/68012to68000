@@ -1,0 +1,11 @@
+Typ oraz materia³ bazowy FR4 1,55 mm, 
+p³ytka dwustronna CU 35um,
+*.TOPx - miedŸ górna strona p³ytki,
+*.BOTx - miedŸ dolna strona p³ytki,
+*.LSTOPx - maska lutownicza górna strona p³ytki,
+*.LSBOTx - maska lutownicza dolna strona p³ytki,
+*.PLTOPx - opis elementów umieszczonych na górnej stronie p³ytki,
+*.PLBOTx - opis elementów umieszczonych na dolnej stronie p³ytki,
+*.MARGx -  KrawêdŸ p³ytki,
+*.drl - otwory,
+*.ps  - mapa otworów
